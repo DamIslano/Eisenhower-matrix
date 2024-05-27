@@ -1,12 +1,6 @@
-# Nuxt 3 Minimal Starter
+# In Progress...
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
+<!-- ```bash
 # npm
 npm install
 
@@ -18,13 +12,13 @@ yarn install
 
 # bun
 bun install
-```
+``` -->
 
-## Development Server
+<!-- ## Development Server
 
-Start the development server on `http://localhost:3000`:
+Start the development server on `http://localhost:3000`: -->
 
-```bash
+<!-- ```bash
 # npm
 npm run dev
 
@@ -70,6 +64,4 @@ yarn preview
 
 # bun
 bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+``` -->
