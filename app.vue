@@ -1,10 +1,11 @@
 <script setup lang="ts">
-import Main from './pages/main/Main'
 </script>
 
 <template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
+  <div class="h-screen bg-gray-950">
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </div>
 </template>
 
